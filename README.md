@@ -1,2 +1,2 @@
-# mistra-dubbo
-SpringBoot Dubbo Zookeeper 实例
+# dubbo_demo
+SpringBoot Dubbo Zookeeper mybatis 实例
